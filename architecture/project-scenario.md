@@ -96,10 +96,3 @@ The staging environment was successfully moved to k3s, which:
 * DNS / CoreDNS Debugging
 * Cost Optimization Strategy
 * Environment Migration Planning
-
----
-
-## 🎤 Interview Summary
-
-If asked about this project in an interview, I would summarize it as:
-
