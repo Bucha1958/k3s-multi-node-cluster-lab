@@ -1,0 +1,1 @@
+nslookup kubernetes.default.svc.cluster.local → SUCCESS

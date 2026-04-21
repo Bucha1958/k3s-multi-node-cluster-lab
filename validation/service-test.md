@@ -1,0 +1,1 @@
+curl http://nginx.default.svc.cluster.local → SUCCESS
